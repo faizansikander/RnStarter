@@ -14,6 +14,12 @@ import ColorScreen from './src/screens/ColorScreen';
 
 const navigator = createStackNavigator(
   {
+
+
+
+
+
+    
     Home: HomeScreen,
     Component: ComponentScreen,
     Welcome: Welcomepage,
